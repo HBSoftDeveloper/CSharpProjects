@@ -1,0 +1,10 @@
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\bin\Debug\netcoreapp2.1\01_Project01_Problem_01.deps.json
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\bin\Debug\netcoreapp2.1\01_Project01_Problem_01.runtimeconfig.json
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\bin\Debug\netcoreapp2.1\01_Project01_Problem_01.runtimeconfig.dev.json
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\bin\Debug\netcoreapp2.1\01_Project01_Problem_01.dll
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\bin\Debug\netcoreapp2.1\01_Project01_Problem_01.pdb
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\obj\Debug\netcoreapp2.1\01_Project01_Problem_01.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\obj\Debug\netcoreapp2.1\01_Project01_Problem_01.AssemblyInfoInputs.cache
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\obj\Debug\netcoreapp2.1\01_Project01_Problem_01.AssemblyInfo.cs
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\obj\Debug\netcoreapp2.1\01_Project01_Problem_01.dll
+C:\Users\bilgi\Desktop\CSharp Projects\01_Project01_Problem_01\01_Project01_Problem_01\obj\Debug\netcoreapp2.1\01_Project01_Problem_01.pdb
