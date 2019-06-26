@@ -1,0 +1,10 @@
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\bin\Debug\netcoreapp2.1\03_Project03_Loops App.deps.json
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\bin\Debug\netcoreapp2.1\03_Project03_Loops App.runtimeconfig.json
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\bin\Debug\netcoreapp2.1\03_Project03_Loops App.runtimeconfig.dev.json
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\bin\Debug\netcoreapp2.1\03_Project03_Loops App.dll
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\bin\Debug\netcoreapp2.1\03_Project03_Loops App.pdb
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\obj\Debug\netcoreapp2.1\03_Project03_Loops App.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\obj\Debug\netcoreapp2.1\03_Project03_Loops App.AssemblyInfoInputs.cache
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\obj\Debug\netcoreapp2.1\03_Project03_Loops App.AssemblyInfo.cs
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\obj\Debug\netcoreapp2.1\03_Project03_Loops App.dll
+C:\Users\bilgi\Desktop\CSharp Projects\03_Project03_Loops App\03_Project03_Loops App\obj\Debug\netcoreapp2.1\03_Project03_Loops App.pdb
