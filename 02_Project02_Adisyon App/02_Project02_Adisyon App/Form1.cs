@@ -7,10 +7,10 @@ namespace _02_Project02_Adisyon_App
     {
         #region Parameters
 
-        double DF = 20, KF = 6.5, CF = 3, IF = 45, QF = 15;
+        double DF = 20, KF = 6.5, CF = 3, IF = 45, QF = 15,ALF=18,TF=100;
 
         double Toplam; // Bütün Adisyon Toplamını Tutacak
-
+        double NetPara;
         double MP;
 
         #endregion
@@ -53,17 +53,34 @@ namespace _02_Project02_Adisyon_App
             if (checkBox5.Checked == true)
             {
                 Toplam = Toplam + (QF * double.Parse(textBox5.Text));
-            } 
+            }
 
+            if (checkBox6.Checked == true)
+            {
+                Toplam = Toplam + (TF * double.Parse(textBox7.Text));
+            }
+
+            if (checkBox7.Checked == true)
+            {
+                Toplam += ALF * Convert.ToDouble(textBox8.Text);
+            }
+
+            
             groupBox1.Enabled = false;
 
             groupBox2.Enabled = true;
             
             LblCash.Text = Toplam.ToString()+" TL"; // Burasoı Ödenecek Toplam Parayı Tutuyor
+
+            textBox6.Focus();
+
         }
 
         private void BtnCancel_Click(object sender, EventArgs e)
         {
+            NetPara += Toplam;
+            LblMoney.Text = NetPara.ToString() + "TL";
+
             LblCash.Text = "0 TL";
             textBox6.Text = "0";
             LblPU.Text = "0 TL";
@@ -77,6 +94,10 @@ namespace _02_Project02_Adisyon_App
             checkBox3.Checked = false;
             checkBox4.Checked = false;
             checkBox5.Checked = false;
+            checkBox6.Checked = false;
+            checkBox7.Checked = false;
+
+            
         }
 
         #endregion
@@ -88,6 +109,7 @@ namespace _02_Project02_Adisyon_App
             if (checkBox1.Checked == true)
             {
                 textBox1.Enabled = true;
+                textBox1.Focus();
             }
 
             else
@@ -102,6 +124,7 @@ namespace _02_Project02_Adisyon_App
             if (checkBox2.Checked == true)
             {
                 textBox2.Enabled = true;
+                textBox2.Focus();
             }
 
             else
@@ -116,6 +139,7 @@ namespace _02_Project02_Adisyon_App
             if (checkBox3.Checked == true)
             {
                 textBox3.Enabled = true;
+                textBox3.Focus();
             }
 
             else
@@ -130,12 +154,58 @@ namespace _02_Project02_Adisyon_App
             if (checkBox4.Checked == true)
             {
                 textBox4.Enabled = true;
+                textBox4.Focus();
             }
 
             else
             {
                 textBox4.Enabled = false;
                 textBox4.Text = "0";
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+        private void BtnClear_Click(object sender, EventArgs e)
+        {
+            LblMoney.Text = "0";
+            NetPara = 0;
+
+        }
+
+        private void CheckBox7_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox7.Checked == true )
+            {
+                textBox8.Enabled = true;
+                textBox8.Focus();
+            }
+
+            else
+            {
+                textBox8.Enabled = false;
+                textBox8.Text = "0"; 
+            }
+        }
+
+        private void CheckBox6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox6.Checked == true )
+
+            {
+                textBox7.Enabled = true;
+                textBox7.Focus();
+            }
+
+            else
+            {
+                textBox7.Enabled = false;
+                textBox7.Text = "0";
             }
         }
 
@@ -167,6 +237,14 @@ namespace _02_Project02_Adisyon_App
                 if (MP >= Toplam)
                 {
                     LblPU.Text = (MP - Toplam).ToString();
+                    BtnCancel.Enabled = true;
+
+                }
+
+                else
+                {
+                    BtnCancel.Enabled = false;
+                    LblPU.Text = "0 TL";
                 }
 
             }
