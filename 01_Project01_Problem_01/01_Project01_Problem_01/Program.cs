@@ -17,7 +17,7 @@ namespace _01_Project01_Problem_01
 
             Console.WriteLine("Düzgün Çokgenin Tüm İç Açılar Toplamı:" + IT);
 
-            Console.WriteLine("Düzgün Çokgenin Bir İç Açısı:{0} --Düzgün Çokgenin Tüm İç Açılar Toplamı:{1}",FI,IT);
+            Console.WriteLine("Düzgün Çokgenin Bir İç Açısı:{1} --Düzgün Çokgenin Tüm İç Açılar Toplamı:{2}",FI,IT);
             
         }
     }
