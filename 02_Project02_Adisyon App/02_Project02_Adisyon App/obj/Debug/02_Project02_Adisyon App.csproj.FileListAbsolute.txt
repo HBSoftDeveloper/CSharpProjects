@@ -1,0 +1,10 @@
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\bin\Debug\02_Project02_Adisyon App.exe.config
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\bin\Debug\02_Project02_Adisyon App.exe
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\bin\Debug\02_Project02_Adisyon App.pdb
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\02_Project02_Adisyon App.csprojAssemblyReference.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\_02_Project02_Adisyon_App.Form1.resources
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\_02_Project02_Adisyon_App.Properties.Resources.resources
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\02_Project02_Adisyon App.csproj.GenerateResource.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\02_Project02_Adisyon App.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\02_Project02_Adisyon App.exe
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Project02_Adisyon App\02_Project02_Adisyon App\obj\Debug\02_Project02_Adisyon App.pdb
