@@ -10,15 +10,15 @@ namespace _06_Project06Problem_04
 
             double Kilo, Boy, VKİ, puan;
 
-            Console.WriteLine("Lütfen Boyunuzu Metre Cinsinden Giriniz");
-            Boy = double.Parse(Console.ReadLine());
+            Console.WriteLine("Lütfen Boyunuzu Santimetre Cinsinden Giriniz");
+            Boy = double.Parse(Console.ReadLine())/100;
 
             Console.WriteLine("Lütfen Kilonuzu Kilogram Cinsinden Giriniz");
             Kilo = double.Parse(Console.ReadLine());
 
-            Boy = Boy * Boy;
+            VKİ = Kilo / (Boy*Boy) ;
 
-            VKİ = Kilo / Boy;
+            Console.WriteLine("Vücut Kitle İndexi: "+VKİ);
 
             if (VKİ < 20)
             {
@@ -52,7 +52,6 @@ namespace _06_Project06Problem_04
             }
 
             else 
-
             {
                 Console.WriteLine("Verdiğiniz Bilgilere Göre Vüçüt ölçünüz: (Morbid) Yani Ölümcül Şişmanlık");
             }
@@ -75,18 +74,6 @@ namespace _06_Project06Problem_04
             {
                 Console.WriteLine("---I love You Baby----");
             }
-
-            
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
