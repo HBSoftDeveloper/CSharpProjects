@@ -1,0 +1,11 @@
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\bin\Debug\netcoreapp2.1\07_Project07_Loops_01.deps.json
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\bin\Debug\netcoreapp2.1\07_Project07_Loops_01.runtimeconfig.json
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\bin\Debug\netcoreapp2.1\07_Project07_Loops_01.runtimeconfig.dev.json
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\bin\Debug\netcoreapp2.1\07_Project07_Loops_01.dll
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\bin\Debug\netcoreapp2.1\07_Project07_Loops_01.pdb
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.csprojAssemblyReference.cache
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.AssemblyInfoInputs.cache
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.AssemblyInfo.cs
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.dll
+C:\Users\bilgi\source\repos\07_Project07_Loops_01\07_Project07_Loops_01\obj\Debug\netcoreapp2.1\07_Project07_Loops_01.pdb
