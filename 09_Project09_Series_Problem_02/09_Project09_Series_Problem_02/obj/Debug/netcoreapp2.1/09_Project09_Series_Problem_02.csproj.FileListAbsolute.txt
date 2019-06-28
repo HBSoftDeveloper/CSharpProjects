@@ -1,0 +1,11 @@
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\bin\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.deps.json
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\bin\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.runtimeconfig.json
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\bin\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.runtimeconfig.dev.json
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\bin\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.dll
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\bin\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.pdb
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.csprojAssemblyReference.cache
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.AssemblyInfoInputs.cache
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.AssemblyInfo.cs
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.dll
+C:\Users\mrt_b\Desktop\09_Project09_Series_Problem_02\09_Project09_Series_Problem_02\obj\Debug\netcoreapp2.1\09_Project09_Series_Problem_02.pdb
