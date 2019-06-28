@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mrt_b\\Desktop\\CSharpProjects\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mrt_b\\Desktop\\CSharpProjects\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrt_b\\Desktop\\CSharpProjects\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo.csproj",
+        "projectName": "10_Project10_The Lottery_Aoo",
+        "projectPath": "C:\\Users\\mrt_b\\Desktop\\CSharpProjects\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo.csproj",
+        "packagesPath": "C:\\Users\\mrt_b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrt_b\\Desktop\\CSharpProjects\\10_Project10_The Lottery_Aoo\\10_Project10_The Lottery_Aoo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrt_b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
